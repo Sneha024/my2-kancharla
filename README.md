@@ -23,5 +23,7 @@ Goa is a coastal paradise, captivates with its golden beaches, vibrant culture, 
 * Fish Curry
 * Chicken Xacuti
 
+___link to the MyStats.md:___
+https://github.com/Sneha024/my2-kancharla/blob/main/MyStats.md
 
 
