@@ -25,7 +25,37 @@ Sports help children develop physical skills, get exercise, make friends, have f
 
 >"If you can dream it, you can do it" - Walt Disney
 
-# code fencing
+# code fencing:
+
+Link to stack overflow:
+https://stackoverflow.com/questions/1129216/sort-array-of-objects-by-string-property-value
+
+Sass:
+
+```
+@function quick-sort($list) {
+  $less:  ();
+  $equal: ();
+  $large: ();
+
+  @if length($list) > 1 {
+    $seed: nth($list, ceil(length($list) / 2));
+
+    @each $item in $list {
+      @if ($item == $seed) {
+        $equal: append($equal, $item);
+      } @else if ($item < $seed) {
+        $less: append($less, $item);
+      } @else if ($item > $SEED) {
+        $large: append($large, $item);
+      }
+    }
+
+    @return join(join(quick-sort($less, $order), $equal), quick-sort($large, $order));
+  }
+
+  @return $list;
+}
 
 
 
