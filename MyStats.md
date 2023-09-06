@@ -4,7 +4,28 @@ Hi this is Sneha.I have recently undergraduated in july 2023.To start my new car
 ![myimage](images/my_image.jpeg)
 
 ****
+# sports
+Sports help children develop physical skills, get exercise, make friends, have fun, learn teamwork, learn to play fair, and improve self-esteem. people enjoy watching sports because it provides a sense of entertainment, competition.
 
+|Sport Name|reason|Hours|
+|----------|------|-----|
+|Tennicoit| promotes hand-eye coordination,fitness skills.|1|
+|Hockey|It takes cooperation,teamwork |2|
+|Golf|reduces stress,makes friends|1|
+|Chess|develops problem solving skills,builds confidence|2|
+
+****
+****
+
+# Quotes
+
+>"It's never too late to be what you might've been" - George Eliot
+
+>"Trust yourself that you can do it and get it" - Baz Luhrmann
+
+>"If you can dream it, you can do it" - Walt Disney
+
+# code fencing
 
 
 
